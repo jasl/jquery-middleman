@@ -4,12 +4,12 @@ jQuery for Middleman! forked from [jquery-rails](https://github.com/rails/jquery
 
 This gem provides:
 
-  * jQuery 1.11.1
+  * jQuery 1.11.2
   * assert_select_jquery to test jQuery responses in Ruby tests
 
 ## Versions
 
-the gem's version follows it's upstream [jquery-rails](https://github.com/rails/jquery-rails) 
+the gem's version follows it's upstream [jquery-rails](https://github.com/rails/jquery-rails)
 
 See [VERSIONS.md](VERSIONS.md) to see which versions of jquery-middleman bundle which
 versions of jQuery.
