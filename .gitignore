@@ -7,3 +7,4 @@ spec/support/*/public/javascripts
 imports/*
 Gemfile.lock
 .idea
+.DS_Store
